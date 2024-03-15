@@ -38,7 +38,7 @@ Implementar uma classe que seja capaz de simular todos os cenários abaixo:
 - Utilize as boas práticas de programação que são sempre mencionadas em aula e nos materiais; 
 - Observe sempre os modificadores de acesso em atributos e métodos;
 - Observe os nomes de classes e atributos;
-- Utilze comentários para elucidar o cenário elaborado;
+- Utilize comentários para elucidar o cenário elaborado;
 
 ## Feedback 📨
 -  Sua atividade receberá uma pontuação de 0 a 10, que compõe os 40% da Nota da M2;
