@@ -22,18 +22,11 @@
 
 ## Escopo da Atividade 🛠️
 Implementar uma classe que seja capaz de simular todos os cenários abaixo: 
-![2](https://user-images.githubusercontent.com/98854868/235481044-6ffa9bc1-01ba-49a7-a7d3-9096321b892d.png)
-![3](https://user-images.githubusercontent.com/98854868/235481048-20d008cd-adaa-4e36-baf3-a7210eb07916.png)
-![4](https://user-images.githubusercontent.com/98854868/235481050-6634da26-f0ed-44ae-86c2-7585a6c2808b.png)
-![5](https://user-images.githubusercontent.com/98854868/235481053-006b834a-5af6-4436-bb88-e878a5082db7.png)
-![6](https://user-images.githubusercontent.com/98854868/235481058-2044f24e-2eea-440d-94f3-04d19c4640ad.png)
-![7](https://user-images.githubusercontent.com/98854868/235481062-9054ffa4-4857-433e-b116-e6dd51c9381d.png)
-![8](https://user-images.githubusercontent.com/98854868/235481063-2b509d10-2d87-4314-9e2a-0337871c2884.png)
-![9](https://user-images.githubusercontent.com/98854868/235481065-43f7e552-db26-4c3c-9527-8c714ee26189.png)
 
-
-- Lembre-se em colocar cada CENÁRIO dentro de um respectivo MÉTODO
-- Instancie o objeto na <i>classe<i> principal (main)
+![39](https://github.com/franciscodouglas/atividade-1-revisao/assets/98854868/cd21f5e8-5f2b-4fc6-bc40-612d3f60359e)
+![40](https://github.com/franciscodouglas/atividade-1-revisao/assets/98854868/a0362b19-45bd-492b-9d56-99e2bacb5ac7)
+![41](https://github.com/franciscodouglas/atividade-1-revisao/assets/98854868/9292b738-c939-4810-8c28-35abe27c10ae)
+![42](https://github.com/franciscodouglas/atividade-1-revisao/assets/98854868/f0e17c4d-2ef9-4667-af64-4f17b627e706)
 
 ## No Microsoft Teams  👥
 
